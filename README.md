@@ -16,3 +16,6 @@
 * _exploratory data analysis_;
 * _generating analytical reports_;
 * _data interpretation._
+
+### Connect with me:
+[tg](https://t.me/azabes)
